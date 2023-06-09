@@ -1,4 +1,4 @@
-# Public place for Jsonnet Templating Language Support plugin 
+# Public place for Jsonnet Pro plugin 
 
 Here you can do the following: 
 
